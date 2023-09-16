@@ -1,5 +1,3 @@
-# paper_1
-my first paper as data analyst 
 ## Objectives
 1. To be able to describe the present condition of tech companies in terms of their 
 mental health resources such as benefits, care options, wellness programs and leaves. 
